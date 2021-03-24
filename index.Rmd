@@ -5,8 +5,7 @@ title: |
 author: |
   |  
   |  
-date: "`r format(Sys.time(), '%d %B, %Y')`"
-geometry: "left=3cm,right=3cm,top=2cm,bottom=2cm"
+#date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
   html_document:
     highlight: textmate
@@ -146,6 +145,6 @@ incluindo edição de imagens.
 ## Preparação para a submissão
 
 
-# contato
+# Contato
 
 Gudryan J. Baronio - gudryan@gmail.com
