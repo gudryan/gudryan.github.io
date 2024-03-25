@@ -1,0 +1,689 @@
+---
+title: |
+ ![](https://i.imgur.com/F5Xs43v.png){width=950px align="right" style="display: block; margin:0 auto;"} </br>
+ \
+ <br> </br>
+ <br> </br>
+ <span style="color:#000080; font-family:Trebuchet MS;"> <b> Do you need scientific consulting? </b> </span>
+author: |
+  |  
+#date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_document:
+    highlight: textmate
+    includes:
+      in_header: cabecalho.html
+    theme: yeti # cosmo, paper, simplex, sandstone, yeti
+    number_sections: no
+    toc: no
+    toc_float:
+      collapsed: yes
+      smooth_scroll: no
+
+---
+
+<style>
+
+
+#.column-left{float: left; width: 33%; text-align: left;}
+#.column-center{display: inline-block; width: 33%; text-align: center;}
+#.column-right{float: right; width: 33%; text-align: right;}
+    
+.column-left{text-align: left;}
+.column-center{text-align: center;}
+.column-right{text-align: right;}
+.column-justify{text-align: justify;}
+
+
+.text-justify{text-align: justify;}
+.text-right{text-align: right;}
+.text-center{text-align: center;}
+.text-left{text-align: left;}
+
+.unselectable {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+    
+    
+img {
+    pointer-events: none;
+}
+
+
+.colored {
+  background-color: #e6f9ff;
+}
+
+.colored2 {
+  background-color: #f2f2f2;
+}
+
+.purple {
+  background-color: #f5d6eb;
+}
+
+.colored3 {
+  background-color: #fff2e6;
+}
+
+h3 {
+ line-height: 2;
+ background-color: #fff2e6;
+}
+
+h4 {
+ line-height: 2;
+}
+
+.espacomaior {
+ line-height: 2.5;
+}
+
+.azultitulo{
+  color: #000080;
+}
+
+.rubrotitulo{
+  color: #b30000;
+}
+
+.orangetitulo{
+  color: #ff944d;
+}
+
+
+
+</style>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+<meta name="HandheldFriendly" content="true">
+
+------
+
+# {.unnumbered .text-right .unselectable}
+
+conscience.analytics@gmail.com  <img src="https://i.imgur.com/FAzMg6c.png" width="16">  
+[Whatsapp - contato](https://api.whatsapp.com/send?phone=+5534991707141)  <img src="https://i.imgur.com/FAWS9cZ.png" width="16">  
+Since 2022® @Gudryan
+
+## **Take the drafts out of the drawer!** {.text-left .unselectable .azultitulo}
+## {.unnumbered .text-right .unselectable}
+:::: {.text-left .unselectable}
+::: {.column-left .column width="45%"}
+\   When you uncover a draft or project, you have several steps to organize:
+
+1. Organize data
+2. Update statistical models
+3. Think about how to present the results
+4. Review what you have already written
+5. Prepare the submission
+\  ... and much more!
+:::
+
+::: {.col .column width="5%"}
+\ 
+<!-- an empty Div (with a white space), serving as
+a column separator -->
+:::
+
+::: {.column-left .column width="45%"}
+</br>
+</br>
+</br>
+
+## **Clarify and organize them!** {.text-left .unselectable .rubrotitulo}
+## {.unnumbered .text-left .unselectable}
+\   Regardless of the project you are developing, or what phase it is in, do not let difficulties hinder progress:
+
+1. Many concurrent disciplines reducing the available time
+2. Difficulty with data collection and analysis
+3. Good scientific writing takes time!
+4. Review the manuscript
+5. ... and more! 
+:::
+::::
+
+# {.unnumbered .text-justify .unselectable}
+\   After some time off, those data you collected months (or years) ago can take on another context, including higher power to answer some questions. Several current statistical techniques can extract more information from the data you may have shelved because not even you didn't even believe them too much.
+
+
+# {.unnumbered .text-center .unselectable .colored3 .espacomaior}
+
+### {.text-justify .unnumbered}
+:::: {style="display: flex;" .unselectable}
+
+::: {.column-left .column width="65%"}
+```{r Gráfico de linhas, echo=FALSE, results = TRUE, message = FALSE, warning = FALSE, error = FALSE, dev = "svg"}
+knitr::include_graphics("first_english.png")
+```
+:::
+
+::: {.column-center .column width="30%"}
+</br>
+
+These tasks can be a **time-consumer**, depending on the **stage** and the **time** that this project was shelved!
+</br>
+</br>
+According to the more **difficulty to perform a task**, the more time it will take to complete it.
+:::
+::::
+  
+# {.unnumbered .text-center .unselectable}  
+</br>
+
+# {.unnumbered .text-center .unselectable .purple}  
+</br>
+</br>
+
+## </br> COUNT ON MY ASSISTANCE TO PERFORM THESE TASKS {.unnumbered .text-center .unselectable .espacomaior .purple}  
+
+</br>
+</br>
+
+
+# {.unnumbered .text-center .unselectable}  
+</br>
+  
+:::: {style="display: flex;" .unselectable .espacomaior .colored3}
+::: {.column-center .column width="50%"}
+</br>
+  </br>
+  
+\   Scientific consulting services are a reality in [several contexts](https://www.sciencemag.org/careers/2014/09/science-careers-guide-consulting-careers-phd-scientists), especially the international ones.  
+</br>
+  </br>
+  
+\   These services can be extremely useful by [increasing the individual and collective productivity](https://www.kolabtree.com/blog/scientific-consulting/) in the project.  
+\     
+\   Keep it in your mind.
+:::
+  
+::: {.col data-latex="{0.5\textwidth}"}
+\ 
+<!-- an empty Div (with a white space), serving as
+a column separator -->
+:::
+  
+::: {.column-right}
+```{r, echo=FALSE, out.width="85%", fig.align = 'center'} 
+#out.width="35%"
+knitr::include_graphics("transferir.png")
+```
+:::
+::::
+
+
+
+# {.unnumbered .text-center .unselectable .espacomaior}
+
+\ The consultant-client relationship has important and necessary functional traits, especially the mutual trust in each other: from the availability of data to the performance of a service by the consultant.  
+</br>
+\ The building of this trust is continually established between them, but previous experiences, whether experiences that have been successful or unsuccessful or even recommendations from third parties are factors that can influence this relationship before it even begins.  
+</br>
+
+
+# {.text-center .unselectable .purple}
+
+------
+
+</br>
+</br>
+
+## **What am I offering?** {.text-center .unselectable .purple}
+</br>
+
+
+#### A **consultancy service** to increase the **performance of activities** of different academic projects. {.text-center .unselectable .purple} 
+\   
+
+
+#### I am offering since from **simple** services, such as the need to organize bibliographic references, to the more **elaborated** ones, such as the analysis and graphical presentation of a set of data, scientific writing, or even, the submission and provision of project accounts. {.text-center .unselectable .purple} 
+
+
+</br>
+</br>
+
+
+------
+
+# {.text-center .unselectable .unnumbered}
+</br>
+
+### **Data** {.tabset .tabset-fade .text-justify .unselectable .orangetitulo}
+### {.tabset .tabset-fade .unnumbered .text-left .unselectable}
+
+\   
+1. Data acquisition from graphs  
+\   
+\ - if you have graphs but no longer has those datasheet  
+\   
+
+2. Acquisition of data by bibliographic review  
+\   
+\ - if you need a review  
+\ - or help with a meta-analysis collection  
+\   
+
+3. Transcription, tabulation and data organization  
+\     
+\ - if you have collected a great dataset and now need to organize it  
+</br>
+</br>
+</br>
+
+
+### **Projects** {.tabset .tabset-fade .text-justify .unselectable .orangetitulo}
+### {.tabset .tabset-fade .unnumbered .text-left .unselectable}
+
+#### *Writing and Proofreading*
+\   
+\   Need to write an urgent project?  
+</br>
+\   - Do you want a **robust application proposal** and need help?  
+</br>
+Send email to conscience.analytics@gmail.com, thus we can put together your proposal!    
+</br>
+</br>
+</br>
+
+#### *Preparation for submission*
+\   
+\   Advising and preparing projects for submission to funding agencies and agencies.  
+
+\   - Do you want to **submit your project** to which agency?  
+</br>
+Send email to conscience.analytics@gmail.com, thus we can put together your proposal! 
+
+</br>
+</br>
+</br>
+
+
+### **Drafts and manuscripts** {.tabset .tabset-fade .text-justify .unselectable .orangetitulo}
+### {.tabset .tabset-fade .unnumbered .text-left .unselectable}
+
+#### *Data analysis*  
+##### *Descriptive analysis*  
+\   
+1. Mean ($\mu$), mode and median  
+2. Standard Error  
+3. Standard deviation ($\sigma$)  
+4. Confidence interval  
+3. Variable classification and optimization  
+4. Data distributions  
+5. Residual analysis  
+6. Hypothesis tests (**H~0~**: e **H~A~**:)  
+7. *Network Analysis* - at networkd or vertices levels  
+</br>
+</br>
+
+##### *Statistical modelling*  
+
+Models specifically used according to the data fit.  
+   
+1. T-test  
+1. Chi-square ($\chi$^2^)  
+1. Analysis of Variance (ANOVA)  
+1. Linear regression  
+1. Linear correlation   
+1. Logistic regression   
+1. Linear models (LM)  
+2. Generalized linear models (GLM)  
+3. Mixed linear models (LMM)  
+4. Generalized mixed linear models (GLMM)  
+5. Generalized additive models (GAM)  
+6. Generalized additive and mixed models (GAMM)  
+7. Non-linear regression (NLM)  
+</br>
+</br>
+</br>
+
+
+Here, an adjustment according to the least squares method of a Linear Regression model:
+</br>
+
+```{r, echo=FALSE, out.width="80%", fig.align = 'center'} 
+knitr::include_graphics("cool3.gif")
+```
+</br>
+
+Below, see a Generalized Additive Model (GAM) adjusted to three different growth rates of different ages in a group of plants:
+</br>
+
+```{r, echo=FALSE, out.width="60%", fig.align = 'center'} 
+knitr::include_graphics("GAM.png")
+```
+
+
+
+#### *Results* {.tabset .tabset-fade}
+\   
+\   Organization and *layout* of graphs, tables, charts and attachments.  
+</br>
+
+\   **Do you prefer beautiful and organized graphics?**
+\   See some examples of * layout * I made below, but also see the gallery [ggplot2 Package](https://exts.ggplot2.tidyverse.org/gallery/)  
+</br>
+\   Get in touch to organize your results and make them very presentable!  
+</br> 
+\   Send email to conscience.analytics@gmail.com
+
+:::: {style="display: flex;" .unselectable}
+::: {.column-center .column width="40%"}
+</br>
+</br>
+```{r, echo=FALSE, out.width="100%", fig.align = 'center', dev='svg'} 
+#out.width="35%"
+knitr::include_graphics("Plot3.png")
+```
+:::
+
+::: {.col data-latex="{0.5\textwidth}"}
+\ 
+<!-- an empty Div (with a white space), serving as
+a column separator -->
+:::
+
+::: {.column-center .column width="60%"}
+```{r, echo=FALSE, out.width="100%", fig.align = 'center'} 
+#out.width="35%"
+knitr::include_graphics("Example_PNG.gif")
+```
+:::
+::::
+
+:::: {style="display: flex;" .unselectable}
+
+::: {.column-center .column width="65%"}
+```{r, echo=FALSE, out.width="100%", fig.align = 'center'} 
+#out.width="35%"
+knitr::include_graphics("IDW.png")
+
+#png("figura_RDA.png", width = 15, height = 15, units = 'cm', res = 300, bg='transparent')
+
+```
+:::
+
+::: {.col data-latex="{0.5\textwidth}"}
+\ 
+<!-- an empty Div (with a white space), serving as
+a column separator -->
+:::
+
+::: {.column-center .column width="35%"}
+</br>
+</br>
+```{r, echo=FALSE, out.width="100%", fig.align = 'center', dev='svg'} 
+#out.width="35%"
+knitr::include_graphics("clasic_1.png")
+```
+:::
+::::
+
+
+
+:::: {style="display: flex;" .unselectable}
+::: {.column-center .column width="50%"}
+
+```{r, echo=FALSE, out.width="100%", fig.align = 'center', dev='svg'} 
+#out.width="35%"
+knitr::include_graphics("feno.png")
+```
+:::
+
+::: {.col data-latex="{0.5\textwidth}"}
+\ 
+<!-- an empty Div (with a white space), serving as
+a column separator -->
+:::
+
+::: {.column-center .column width="50%"}
+```{r, echo=FALSE, out.width="100%", fig.align = 'center'} 
+#out.width="35%"
+knitr::include_graphics("figura_RDA.png")
+```
+:::
+::::
+
+
+
+```{r, echo=FALSE, out.width="100%", fig.align = 'center'} 
+#out.width="35%"
+knitr::include_graphics("mapa.png")
+```
+</br>
+
+:::: {style="display: flex;" .unselectable}
+::: {.column-center .column width="50%"}
+
+```{r, echo=FALSE, out.width="100%", fig.align = 'center', dev='svg'} 
+#out.width="35%"
+knitr::include_graphics("polen_deposition cópia.png")
+```
+:::
+
+::: {.col data-latex="{0.5\textwidth}"}
+\ 
+<!-- an empty Div (with a white space), serving as
+a column separator -->
+:::
+
+::: {.column-center .column width="50%"}
+```{r, echo=FALSE, out.width="80%", fig.align = 'center'} 
+#out.width="35%"
+knitr::include_graphics("figA.png")
+```
+
+```{r, echo=FALSE, out.width="80%", fig.align = 'center'} 
+#out.width="35%"
+knitr::include_graphics("Figure_3 cópia.png")
+```
+:::
+::::
+
+
+:::: {style="display: flex;" .unselectable}
+::: {.column-center .column width="50%"}
+
+```{r, echo=FALSE, out.width="100%", fig.align = 'center', dev='svg'} 
+#out.width="35%"
+knitr::include_graphics("nmds_figura_permanova cópia.png")
+```
+:::
+
+::: {.col data-latex="{0.5\textwidth}"}
+\ 
+<!-- an empty Div (with a white space), serving as
+a column separator -->
+:::
+
+::: {.column-center .column width="50%"}
+```{r, echo=FALSE, out.width="100%", fig.align = 'center'} 
+#out.width="35%"
+knitr::include_graphics("Figura_multivariada cópia.png")
+```
+
+:::
+::::
+
+
+```{r, echo=FALSE, out.width="80%", fig.align = 'center'} 
+#out.width="35%"
+knitr::include_graphics("Example3.gif")
+```
+
+
+#### *Image edition*  
+
+</br>
+\   Editing of graphic images and photographs, for boards and illustrations assembly.  
+</br>
+
+```{r, echo=FALSE, out.width="100%", fig.align = 'center'} 
+#out.width="35%"
+knitr::include_graphics("Ilustration_final.png")
+```
+</br>
+
+```{r, echo=FALSE, out.width="100%", fig.align = 'center'} 
+#out.width="35%"
+knitr::include_graphics("IMG_7952-1.jpg")
+```
+</br>
+
+
+#### *Preparation for submission*
+
+:::: {style="display: flex;" .unselectable}
+::: {.column-center .column width="75%"}
+</br>
+\   The standardization of technical and scientific tasks is an essential process for the a product presentation, such as a paper or application proposal.
+</br>
+</br>
+\   This standardization involves the organization of the entire manuscript or project according to the **standards** required (*authors guidelines*) and the formatting of **bibliographic references**.
+</br>
+</br>
+\  Have you already used the [Mendeley](https://www.mendeley.com/download-desktop-new/) for formatting references?
+:::
+
+::: {.col data-latex="{0.5\textwidth}"}
+\ 
+<!-- an empty Div (with a white space), serving as
+a column separator -->
+:::
+
+::: {.column-right}
+</br>
+</br>
+</br>
+```{r, echo=FALSE, out.width="45%", fig.align = 'center'} 
+#out.width="35%"
+knitr::include_graphics("mendeley.png")
+```
+:::
+::::
+
+
+# {.unselectable .text-justify .unselectable .colored}
+
+------
+
+## **Who am I?** {.azultitulo}
+## {.unnumbered .text-left .unselectable}
+\ 
+
+:::: {style="display: flex;" .unselectable}
+::: {.column-justify .column width="70%"}
+\   My name is Gudryan Baronio, I am a biologist graduated in 2010 at Brazilian University called Universidade Federal do Mato Grosso do Sul. I completed my master's  (2013) and doctorate degrees (2017) in Ecology and Conservation of Natural Resources in Universidade Federal de Uberlândia. If you want to consult my [complete curriculum](http://lattes.cnpq.br/7041242762452086) or [Research Gate](https://www.researchgate.net/profile/Gudryan-J-Baronio), you can see that I have worked a good part of my academic life with interactions among plants and animals.
+\
+\   Among the main interests are: how the understanding of these interactions, mutualistic and antagonistic, are shaped and maintained in the communities according to the availability and use of resources by the interactants, as well as the direct and indirect effects resulting from these interactions. Great concerns for meeting these interests are always to identify what data to collect, how to collect and analyze it, and obviously, how to present the results.
+
+For this, I developed some skills, such as:  
+\   
+<span style="color:blue"> 
+\   - Statistical analysis and graphical tools  
+\   
+\   - Programming language(*R* and *Python*)  
+\   
+\   - Scientific writing  
+\   
+</span>
+:::
+
+::: {.col .column width="5%"}
+\ 
+<!-- an empty Div (with a white space), serving as
+a column separator -->
+:::
+
+::: {.column-center .column width="20%"}
+```{r, echo=FALSE, out.width="100%", fig.align = 'center'} 
+knitr::include_graphics("gudryan.png")
+```
+:::
+::::
+
+que são muito úteis à coleta e análise de dados, a interpretação dos resultados, e finalmente a divulgação no [**formato científico**](https://www.dropbox.com/s/0q3e7ja95utptdy/10.1007%40s11829-020-09770-9.pdf?dl=0).
+
+\   Particularly, I am organization-friendly and this certainly will be reflected in the way I offer and carry out my work. Scientific activities must be rigorous and standardized, especially in the acquisition and manipulation of data, and of course, in the presentation of results.  
+</br>
+
+
+------
+
+# {.unselectable .text-justify .unselectable}
+
+### {.text-justify .unselectable}
+
+</br>
+
+<img src="https://i.imgur.com/F5Xs43v.png" width=950px align="right"> 
+
+All consultancies are personalized.  
+Contact me for assistance.  
+
+# {.unnumbered .text-right .unselectable}
+
+Gudryan J. Baronio  
+conscience.analytics@gmail.com  <img src="https://i.imgur.com/FAzMg6c.png" width="16">  
+[Whatsapp - contato](https://api.whatsapp.com/send?phone=+5534991707141)  <img src="https://i.imgur.com/FAWS9cZ.png" width="16"> 
+
+</br>
+</br>
+
+# {.unnumbered .text-left .unselectable}
+IBM Certified
+</br>
+
+:::: {style="display: flex;"}
+::: {.column-center}
+<a href="https://www.credly.com/badges/038ec933-b2eb-4936-8a5b-c40811002e2e/public_url">
+<img class =“right” src="data-science-orientation.png" width="120" style="opacity:0.65; filter:alpha(opacity=40);">
+:::
+
+::: {.col data-latex="{0.5\textwidth}"}
+\ 
+<!-- an empty Div (with a white space), serving as
+a column separator -->
+:::
+
+::: {.column-right}
+<a href="https://www.credly.com/badges/10df9d17-266f-4b41-a65f-05b3e5520a4e/public_url">
+<img class =“right” src="Tools_for_Data_Science_Foundational.png" width="120" style="opacity:0.65; filter:alpha(opacity=40);">
+:::
+::::
+
+</br>
+
+------
+
+
+<meta name="google-site-verification" content="2ALZ7JCxSrmvspPtd_GhAkURTRrsFOMAam9QfjYWEtc" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
